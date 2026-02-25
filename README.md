@@ -7,3 +7,5 @@ texto 1
 | Proyecto | test-copilot    |
 | Versión  | 1.0.0           |
 | Estado   | En desarrollo   |
+
+texto 2
